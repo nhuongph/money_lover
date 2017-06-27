@@ -1,0 +1,35 @@
+/*
+ * Specific styles of signin component
+ */
+/*
+ * General styles
+ */
+.logo-right{
+    text-align: right;
+    color: white;
+    font-size: 1.5em;
+}
+.clear-padding{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.bg-white{
+    background-color: white;
+}
+.padding-top-bot{
+    padding: 5%;
+}
+.wallet{
+    clear: both;
+    width: 100%;
+}
+.wallet img{
+    height: 50px;
+    width: auto;
+}
+.wallet ul{
+    float: left;
+}
+.wallet td{
+    padding-left: 5%;
+}

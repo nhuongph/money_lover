@@ -1,0 +1,59 @@
+/*
+ * Specific styles of signin component
+ */
+/*
+ * General styles
+ */
+ul,ol{
+    list-style-type: none;
+}
+.wallet{
+    clear: both;
+    width: 100%;
+    height: 200px;
+}
+.wallet img{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-right: 5%;
+}
+.wallet ul{
+    float: left;
+}
+.wallet td{
+    padding-left: 5%;
+}
+.trans-search{
+    clear: both;
+    padding-bottom: 5%;
+    margin-top: 5%;
+}
+.trans{
+    clear: both;
+    width: 100%;
+    height: 100px;
+}
+.trans img{
+    height: 80px;
+    width: 100px;
+    float: left;
+    margin-right: 5%;
+}
+.trans-right{
+    float: left;
+}
+.category{
+    clear: both;
+    width: 100%;
+    height: 100px;
+}
+.category img{
+    height: 80px;
+    width: 100px;
+    float: left;
+    margin-right: 5%;
+}
+.category-right{
+    float: left;
+}
